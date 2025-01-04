@@ -3,6 +3,7 @@ import { createTheme, ThemeProvider } from "@mui/material";
 
 let theme = createTheme({
   palette: {
+    white: '#ffffff',
     primary: {
       main: '#fbe9e7',
     },
